@@ -1,0 +1,3 @@
+create non-debug json
+consolidate the class
+Create git repository.
